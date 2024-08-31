@@ -1,0 +1,2 @@
+model_checkpoint_path: "c:\\Users\\AMIR\\Desktop\\proj-computer-vision\\Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network\\TrainedModel2\\GestureRecogModel.tfl"
+all_model_checkpoint_paths: "c:\\Users\\AMIR\\Desktop\\proj-computer-vision\\Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network\\TrainedModel2\\GestureRecogModel.tfl"
